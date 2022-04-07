@@ -1,4 +1,4 @@
-# Stock-Analysis-Catchup - Module 2 Challenge
+# Stock-Analysis-Catchup with Challenge
 ## Overview of Project
 ### Purpose
 To refactor VBA Code and Measure Performance 
