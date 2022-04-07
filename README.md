@@ -1,4 +1,4 @@
-# Module 2 Challenge
+# Stock-Analysis-Catchup - Module 2 Challenge
 ## Overview of Project
 ### Purpose
 To refactor VBA code to collect stock data for 2017 and 2018 and determine if the stocks are a good investment. 
